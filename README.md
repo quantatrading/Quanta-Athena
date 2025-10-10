@@ -64,7 +64,7 @@ By using real-time option mark data, Black-Scholes probability models, and regim
 | **Risk Control** | BEP-aware capital throttling, soft capital ceilings, adaptive frequency modulation |
 | **Persistence** | JSON state storage via proxy handler; maintains runtime continuity across cycles |
 | **Refresh Logic** | Dynamic API polling cadence (1–60 min) based on IV delta intensity |
-| **Visual Output** | Custom chart rails (IV expiry, straddle bounds, BS marks, parity spot) and detailed side-bar telemetry (ROC, ECR, DP1k, IV state) |
+| **Visual Output** | Custom chart rails (IV expiry, straddle bounds, BS marks, parity spot) and detailed side-bar telemetry (ROC, ECR, IV state) |
 
 ---
 
