@@ -62,7 +62,6 @@ By using real-time option mark data, Black-Scholes probability models, and regim
 | **Analytical Core** | Black-Scholes engine (price, ITM %, expected move), volatility skew mapping, put call parity validation |
 | **Execution Logic** | Regime-aware buy and sell order generation with offset scaling, layer weighting and timer-based gating |
 | **Risk Control** | Break-even aware capital throttling, capital ceilings and adaptive frequency modulation |
-| **Persistence** | JSON state storage via proxy handler to maintain runtime continuity across sessions |
 | **Refresh Logic** | Dynamic API polling cadence (1–60 minutes) based on IV delta intensity |
 | **Visual Output** | Custom chart rails (IV expiry, straddle bounds, BS marks, parity spot) and sidebar telemetry (ROC, ECR, IV state) |
 
