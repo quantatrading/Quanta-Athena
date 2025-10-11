@@ -1,13 +1,13 @@
 # About Quanta Athena
 
 In the institutional landscape, success depends on more than execution speed; it requires understanding *structure*.  
-**Quanta Athena** operates within that structure. It quantifies how implied volatility, strike distance, and time decay shape the probabilistic distribution of future prices.
+**Quanta Athena** operates within that structure. It quantifies how implied volatility, strike distance and time decay shape the probabilistic distribution of future prices.
 
-Developed as the analytical core of the Quanta trading suite, Athena combines **options-informed analytics**, **statistical modelling**, and **dynamic capital optimisation** into a single adaptive system.  
-It continuously evaluates **put call parity**, **volatility skew**, and **expected move distributions** to locate asymmetrical setups where risk is measurable and reward potential is statistically justified.
+Developed as the analytical core of the Quanta trading suite, Athena combines **options-informed analytics**, **statistical modelling** and **dynamic capital optimisation** into a single adaptive system.  
+It continuously evaluates **put call parity**, **volatility skew** and **expected move distributions** to locate asymmetrical setups where risk is measurable and reward potential is statistically justified.
 
 Athena does not chase volatility; it *interprets* it.  
-By using real-time option mark data, Black-Scholes probability models, and regime-aware scaling, Athena aligns its trade logic with prevailing volatility states, expanding or contracting intelligently as the structure of risk evolves.
+By using real-time option mark data, Black-Scholes probability models and regime-aware scaling, Athena aligns its trade logic with prevailing volatility states, expanding or contracting intelligently as the structure of risk evolves.
 
 ---
 
@@ -23,7 +23,7 @@ By using real-time option mark data, Black-Scholes probability models, and regim
   Calculates volatility-based expiry bounds and straddle envelopes, dynamically adjusting order targets to the current expected move distribution.
 
 - **Volatility-Adaptive Engine**  
-  Recalibrates order offsets, overlap tolerances, and layer weights based on real-time implied volatility and skew behaviour.
+  Recalibrates order offsets, overlap tolerances and layer weights based on real-time implied volatility and skew behaviour.
 
 - **Dynamic Capital Optimisation**  
   Allocates exposure in proportion to regime strength, maintaining capital efficiency across changing liquidity and volatility conditions.
