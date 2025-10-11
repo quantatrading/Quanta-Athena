@@ -51,8 +51,9 @@ By using real-time option mark data, Black-Scholes probability models and regime
 
 ## ⚙️ Platform Compatibility
 
-**Quanta Athena** is licensed exclusively for deployment on the **Gunbot** automated trading platform.
-**Binance Spot** market is the only supported spot market at this time. Additional exchanges will be rolled out in future updates. 
+- **Quanta Athena** is licensed exclusively for deployment on the **Gunbot** automated trading platform.
+
+- **Binance Spot** market is the only supported spot market at this time. Additional exchanges will be rolled out in future updates. 
 
 ---
 
